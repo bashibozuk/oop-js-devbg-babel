@@ -1,0 +1,1 @@
+Example how we can use gulp and babel to transpile ES6 to ES6
